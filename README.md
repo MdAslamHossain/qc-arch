@@ -1,6 +1,7 @@
 # Kafka-Zookeeper-SpringBoot
-1. create docker-compose.yml
-version: '3'
+## create docker-compose.yml
+## yml file is added in resources
+1.version: '3'
 
 services:
   zookeeper:
@@ -29,7 +30,7 @@ services:
 4. cd /opt/bitnami/kafka/bin
 5. ls and see lots of files
 6. to create topic 'kafka-topics.sh --create --zookeeper zookeeper:2181 --replication-factor 1 --partitions 1 --topic topic1'
-7. 
+7. to see in kafka console 'kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic topic1 --from-beginning'
 
 
 
