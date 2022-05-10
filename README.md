@@ -39,9 +39,9 @@ services:
 
 
 
-
-Links : https://www.youtube.com/watch?v=2pBxoal7DY4
-Links : https://www.javainuse.com/spring/spring-boot-apache-kafka-hello-world
+Link : https://www.javatpoint.com/apache-kafka
+Link : https://www.youtube.com/watch?v=2pBxoal7DY4
+Link : https://www.javainuse.com/spring/spring-boot-apache-kafka-hello-world
 
 
 
